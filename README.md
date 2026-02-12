@@ -8,21 +8,21 @@ Nama: M. Gibran Fajar
 NPM: 247006111181
 Program Studi: Informatika
 Universitas: Universitas Siliwangi
-Keahlian: IT Development, UI/UX Design, Digital & Traditional Art
+Keahlian: IT Development, UI/UX Design, & Digital Art
 
 Fitur Utama
 
 Website ini memiliki 5 section utama:
 
-1. Hero / Home – Perkenalan dengan foto profil dan tombol call to action.
+1. Home – Perkenalan dengan foto profil dan tombol call to action.
 2. About Me – Informasi lengkap dan identitas diri.
-3. Skills – Empat kategori keahlian: IT, UI/UX, Digital Art, dan Traditional Art.
-4. Portfolio – Enam karya proyek dengan efek hover.
+3. Skills – Empat kategori keahlian: IT, UI/UX, dan Digital Art.
+4. Portfolio – 3 karya proyek dengan efek hover.
 5. Contact – Form kontak dan informasi komunikasi.
 
 Desain dan Animasi
 
-Website menggunakan tema warna Orange (#FF6A00) dan Blue (#1E3A8A) dengan konsep modern dan responsif.
+Website menggunakan tema Biru dengan konsep modern dan responsif.
 
 Fitur desain yang diterapkan:
 
@@ -178,5 +178,6 @@ Lisensi
 Proyek ini dibuat untuk keperluan akademik dan portfolio pribadi. Bebas untuk dikembangkan dan disesuaikan.
 
 Dibuat menggunakan HTML, CSS, dan JavaScript.
+
 
 
