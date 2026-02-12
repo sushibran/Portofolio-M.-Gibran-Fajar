@@ -48,14 +48,23 @@ Disediakan placeholder SVG/PNG untuk demo dan sudah dioptimasi agar loading lebi
 Struktur Folder
 
 Praktikum/
+
 ├── index.html
+
 ├── css/
+
 │   └── style.css
+
 ├── js/
+
 │   └── script.js
+
 └── asset/
+
 ├── profile.png
+
 ├── about.png
+
 └── project1-6.png
 
 Cara Menggunakan
@@ -169,3 +178,4 @@ Lisensi
 Proyek ini dibuat untuk keperluan akademik dan portfolio pribadi. Bebas untuk dikembangkan dan disesuaikan.
 
 Dibuat menggunakan HTML, CSS, dan JavaScript.
+
