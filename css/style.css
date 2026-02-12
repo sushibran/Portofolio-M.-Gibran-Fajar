@@ -151,9 +151,9 @@ body {
 }
 
 /* ============================================
-   HERO SECTION
+   HOME SECTION
    ============================================ */
-.hero {
+.home {
     min-height: 100vh;
     background: linear-gradient(135deg, rgba(0, 82, 163, 0.1) 0%, rgba(30, 58, 138, 0.1) 100%);
     display: flex;
@@ -164,7 +164,7 @@ body {
     padding: var(--spacing-xl) var(--spacing-lg);
 }
 
-.hero::before {
+.home::before {
     content: '';
     position: absolute;
     width: 300px;
@@ -176,7 +176,7 @@ body {
     opacity: 0.1;
 }
 
-.hero::after {
+.home::after {
     content: '';
     position: absolute;
     width: 400px;
@@ -188,7 +188,7 @@ body {
     opacity: 0.1;
 }
 
-.hero-content {
+.home-content {
     text-align: center;
     z-index: 1;
     animation: fadeInUp 0.8s ease;
@@ -205,7 +205,7 @@ body {
     }
 }
 
-.hero-image {
+.home-image {
     width: 180px;
     height: 180px;
     border-radius: 50%;
@@ -225,7 +225,7 @@ body {
     }
 }
 
-.hero-title {
+.home-title {
     font-size: 3.5rem;
     font-weight: 800;
     background: linear-gradient(135deg, #0066cc, #003d99);
@@ -236,28 +236,28 @@ body {
     letter-spacing: -1px;
 }
 
-.hero-subtitle {
+.home-subtitle {
     font-size: 1.5rem;
     color: var(--primary-blue);
     font-weight: 600;
     margin-bottom: var(--spacing-xs);
 }
 
-.hero-desc {
+.home-desc {
     font-size: 1.1rem;
     color: #0052a3;
     font-weight: 500;
     margin-bottom: var(--spacing-sm);
 }
 
-.hero-tagline {
+.home-tagline {
     font-size: 1.2rem;
     color: var(--text-dark);
     opacity: 0.8;
     margin-bottom: var(--spacing-lg);
 }
 
-.hero-buttons {
+.home-buttons {
     display: flex;
     gap: var(--spacing-md);
     justify-content: center;
@@ -834,25 +834,25 @@ section {
         padding: var(--spacing-md) 0;
     }
     
-    .hero {
+    .home {
         min-height: 80vh;
         padding: var(--spacing-lg) var(--spacing-md);
     }
     
-    .hero-image {
+    .home-image {
         width: 120px;
         height: 120px;
     }
     
-    .hero-title {
+    .home-title {
         font-size: 2rem;
     }
     
-    .hero-subtitle {
+    .home-subtitle {
         font-size: 1.2rem;
     }
     
-    .hero-buttons {
+    .home-buttons {
         flex-direction: column;
         align-items: center;
     }
@@ -889,11 +889,11 @@ section {
 
 /* Extra Small Mobile (480px and below) */
 @media (max-width: 480px) {
-    .hero-title {
+    .home-title {
         font-size: 1.5rem;
     }
     
-    .hero-subtitle {
+    .home-subtitle {
         font-size: 1rem;
     }
     
@@ -919,7 +919,7 @@ section {
 /* ============================================
    UTILITY CLASSES
    ============================================ */
-.hero-shape {
+.home-shape {
     position: absolute;
     width: 200px;
     height: 200px;
