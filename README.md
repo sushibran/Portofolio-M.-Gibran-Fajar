@@ -65,7 +65,7 @@ Praktikum/
 
 ├── about.png
 
-└── project1-6.png
+└── project1-3.png
 
 Cara Menggunakan
 
@@ -178,4 +178,5 @@ Lisensi
 Proyek ini dibuat untuk keperluan akademik dan portfolio pribadi. Bebas untuk dikembangkan dan disesuaikan.
 
 Dibuat menggunakan HTML, CSS, dan JavaScript.
+
 
